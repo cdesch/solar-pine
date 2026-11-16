@@ -4,10 +4,15 @@ A Kiro Crew dashboard theme. It keeps Solar's cream text and status colors and r
 
 ## Install
 
-1. Open the Kiro Crew dashboard and go to the theme picker.
-2. Choose the custom theme editor and click "Paste JSON".
-3. Paste the contents of [`themes/solar-pine.json`](themes/solar-pine.json) and save.
-4. Select "Solar Pine" and switch between dark and light with the topbar button.
+In Kiro Crew, open Settings -> Display -> Install theme and enter the repo URL:
+
+```
+https://github.com/cdesch/solar-pine
+```
+
+Then select "Solar Pine" and switch between dark and light with the topbar button.
+
+Files: `theme.json` (manifest) and `variables.json` (dark and light palettes) sit at the repo root, which the installer requires.
 
 ## Palette
 
